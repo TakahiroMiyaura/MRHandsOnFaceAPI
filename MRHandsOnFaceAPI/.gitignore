@@ -23,6 +23,10 @@ ExportedObj/
 *.svd
 *.pdb
 
+# TestCertificate
+WSATestCertificate.pfx.meta
+WSATestCertificate.pfx
+
 # Unity3D generated meta files
 *.pidb.meta
 

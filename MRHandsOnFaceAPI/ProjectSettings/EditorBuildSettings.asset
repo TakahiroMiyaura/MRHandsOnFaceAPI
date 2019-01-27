@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MRHandsOnFaceAPI/Scene/MRHandsOnFaceAPI.unity
+    guid: a0c443e79a2be184e859b2a6e6fe501d
